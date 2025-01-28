@@ -41,3 +41,7 @@ const Aleatorio = Math.random();
 console.log(RaizCuadradad);
 console.log(ValorAbsoluto);
 console.log(Aleatorio);
+
+const number = 10;
+const number2 = "10";
+console.log(number == number2);
